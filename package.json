@@ -24,7 +24,6 @@
     "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.6",
-    "socket.io": "^2.0.4",
     "zone.js": "^0.8.19"
   },
   "devDependencies": {
@@ -47,6 +46,7 @@
     "protractor": "~5.1.2",
     "ts-node": "~4.1.0",
     "tslint": "~5.9.1",
-    "typescript": "~2.5.3"
+    "typescript": "~2.5.3",
+    "websocket": "^1.0.23"
   }
 }
